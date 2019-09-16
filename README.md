@@ -1,3 +1,7 @@
+## Aula do dia 11/09/2019
+
+[cell.html](d3-intro-part-II/cell.html)<br>
+
 ## Aula do dia 02/09/2019
 
 [index01.html](basic/index01.html)<br>
