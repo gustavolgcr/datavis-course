@@ -1,0 +1,14 @@
+{
+  "name": "@gustavolgcr/d3-com-crossfilter-e-dc-js-parte-2",
+  "main": "d/b1fda2f922e6a4ff.js",
+  "version": "223.0.0",
+  "homepage": "https://observablehq.com/@gustavolgcr/d3-com-crossfilter-e-dc-js-parte-2",
+  "author": {
+    "name": "Luis Gustavo Coutinho do Rego",
+    "url": "https://observablehq.com/@gustavolgcr"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
