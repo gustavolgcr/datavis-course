@@ -1,3 +1,7 @@
+## Aula do dia 23/09/2019
+
+[index.html](d3_crossfilter/index.html)<br>
+
 ## Aula do dia 11/09/2019
 
 [cell.html](d3-intro-part-II/cell.html)<br>
