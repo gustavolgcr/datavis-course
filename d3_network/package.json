@@ -1,0 +1,14 @@
+{
+  "name": "@gustavolgcr/similar-song-network",
+  "main": "d/a311b6bfc72a53bb.js",
+  "version": "88.0.0",
+  "homepage": "https://observablehq.com/@gustavolgcr/similar-song-network",
+  "author": {
+    "name": "Luis Gustavo Coutinho do Rego",
+    "url": "https://observablehq.com/@gustavolgcr"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

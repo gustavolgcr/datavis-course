@@ -1,3 +1,7 @@
+## Aula 20 - 09/10/2019
+
+[index.html](d3_network/index.html)<br>
+
 ## Aula do dia 30/09/2019
 
 [index.html](d3_leaflet/index.html)<br>
