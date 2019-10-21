@@ -1,3 +1,8 @@
+## Aula 21 - 16/10/2019
+
+Exercício 1 - [index.html](d3_color/exercicio-1/index.html)<br>
+Exercício 2 - [index.html](d3_color/exercicio-2/index.html)<br>
+
 ## Aula 20 - 09/10/2019
 
 [index.html](d3_network/index.html)<br>

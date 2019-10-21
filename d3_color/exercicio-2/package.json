@@ -1,0 +1,14 @@
+{
+  "name": "@gustavolgcr/homicidios-em-fortaleza-em-2012",
+  "main": "d/e0f8433b18fe1198.js",
+  "version": "99.0.0",
+  "homepage": "https://observablehq.com/@gustavolgcr/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "Luis Gustavo Coutinho do Rego",
+    "url": "https://observablehq.com/@gustavolgcr"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

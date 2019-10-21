@@ -1,0 +1,14 @@
+{
+  "name": "@gustavolgcr/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "main": "d/1c95f19d4b461f21.js",
+  "version": "85.0.0",
+  "homepage": "https://observablehq.com/@gustavolgcr/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "author": {
+    "name": "Luis Gustavo Coutinho do Rego",
+    "url": "https://observablehq.com/@gustavolgcr"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
